@@ -2,7 +2,8 @@
 
 # **Análisis de servicios hospitalarios: Estudio de Datos **
 
-
+# Abstract
+El soporte del análisis se encuentra en el archivo "ProyectoDS_FerreyraHectorLeonardo_v1"
 #  Resumen del Proyecto
 Este proyecto de análisis de datos tiene como objetivo estudiar el comportamiento y los factores que influyen en las consultas médicas dentro de un centro de salud. A través de este análisis, utilizando librerias matplotlib y seaborn se buscarán patrones y correlaciones entre diversas variables (género del paciente, el grupo etario, el tipo de servicio, etc.) para entender mejor las dinámicas del sistema de salud y prever ciertos resultados, como los precios de las consultas o el tiempo de duración de estas.
 
