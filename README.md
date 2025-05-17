@@ -38,5 +38,5 @@ Hipótesis 2: El tiempo de la consulta está relacionado con el tipo de servicio
 ¿Qué factores son más determinantes en el precio de la consulta ?
 ¿Se puede predecir el tiempo de consulta a partir del tipo de servicio y la edad del paciente?
 
-##Conclusión del análisis
+## Conclusión del análisis
 Se concluyo que a partir de los resultados obtenidos, se puede inferir que el género del paciente no influye significativamente en el precio de la consulta, mientras que la duración y el tipo de servicio serían los factores que mas influyen. La edad del paciente presenta cierta relación con el tiempo de consulta, pero no de forma directa, y combinada con el tipo de servicio se puede estimar dicha duración. Estas observaciones reflejan que las características operativas del servicio pesan más en el modelo que las características del paciente.
